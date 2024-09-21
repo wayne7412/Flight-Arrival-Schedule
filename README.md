@@ -1,4 +1,4 @@
-# Flight-schedule
+# Flight-Arrival-Schedule
 The `train-data.txt` file contains flight data, with each line representing a record. Each record includes the following fields:
 
 1. **ID**: The unique identifier of the aircraft.
